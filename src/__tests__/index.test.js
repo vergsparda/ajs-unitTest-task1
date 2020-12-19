@@ -1,4 +1,4 @@
-import setColorLifebar from './index';
+import setColorLifebar from '../index';
 
 test('health = 65', () => {
   const input = { name: 'Mage', health: 65 };
